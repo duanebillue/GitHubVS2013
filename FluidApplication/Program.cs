@@ -11,6 +11,7 @@ namespace FluidApplication
         static void Main(string[] args)
         {
             var strName = "";
+            strName = "Duane";
         }
     }
 }
